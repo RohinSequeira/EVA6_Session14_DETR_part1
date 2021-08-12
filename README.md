@@ -1,1 +1,1 @@
-# EVA6_Session14_DETR_part1
+# DEtection TRansformer (DETR)
